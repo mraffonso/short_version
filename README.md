@@ -8,9 +8,8 @@ Based on [SemanticVersion] from the standard library but with only major and min
 
 ```yaml
 dependencies:
-    short_version:
-        github: mraffonso/short_version
-        version: ~> 0.1.0
+  short_version:
+    github: mraffonso/short_version
 ```
 
 2. Run `shards install`
