@@ -1,0 +1,9 @@
+name: short_version
+version: 0.1.0
+
+authors:
+  - Mario Affonso <mario@thecodebeach.com>
+
+crystal: "~> 1.9.0"
+
+license: MIT
